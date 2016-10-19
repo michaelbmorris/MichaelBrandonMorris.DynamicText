@@ -1,5 +1,5 @@
 ﻿using System.Windows.Input;
-using Extensions.PrimitiveExtensions;
+using MichaelBrandonMorris.Extensions.PrimitiveExtensions;
 using GalaSoft.MvvmLight.Command;
 using Ookii.Dialogs.Wpf;
 
