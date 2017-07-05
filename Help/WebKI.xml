@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddButtonIsVisible property" Url="html/P-MichaelBrandonMorris.DynamicText.DynamicText.AddButtonIsVisible.htm" />
+  <HelpKINode Title="BrowseFolder method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.BrowseFolder.htm" />
+  <HelpKINode Title="BrowseFolderCommand property" Url="html/P-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.BrowseFolderCommand.htm" />
+  <HelpKINode Title="CollectionChanged event">
+    <HelpKINode Title="CollectionChanged Event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.CollectionChanged.htm" />
+    <HelpKINode Title="CollectionChanged Event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicTextCollection.CollectionChanged.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DynamicDirectoryPath class">
+    <HelpKINode Title="DynamicDirectoryPath Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    <HelpKINode Title="DynamicDirectoryPath Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    <HelpKINode Title="about DynamicDirectoryPath class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DynamicDirectoryPath.BrowseFolder method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.BrowseFolder.htm" />
+  <HelpKINode Title="DynamicDirectoryPath.BrowseFolderCommand property" Url="html/P-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.BrowseFolderCommand.htm" />
+  <HelpKINode Title="DynamicDirectoryPathCollection class">
+    <HelpKINode Title="DynamicDirectoryPathCollection Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+    <HelpKINode Title="DynamicDirectoryPathCollection Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+    <HelpKINode Title="about DynamicDirectoryPathCollection class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+    <HelpKINode Title="constructor" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.-ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DynamicDirectoryPathCollection.CollectionChanged event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.CollectionChanged.htm" />
+  <HelpKINode Title="DynamicDirectoryPathCollection.DynamicDirectoryPathCollection constructor" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.-ctor.htm" />
+  <HelpKINode Title="DynamicText class">
+    <HelpKINode Title="DynamicText Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="DynamicText Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="about DynamicText class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DynamicText.AddButtonIsVisible property" Url="html/P-MichaelBrandonMorris.DynamicText.DynamicText.AddButtonIsVisible.htm" />
+  <HelpKINode Title="DynamicText.IsNullOrEmpty method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.IsNullOrEmpty.htm" />
+  <HelpKINode Title="DynamicText.IsNullOrWhiteSpace method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.IsNullOrWhiteSpace.htm" />
+  <HelpKINode Title="DynamicText.NotifyPropertyChanged method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.NotifyPropertyChanged.htm" />
+  <HelpKINode Title="DynamicText.PropertyChanged event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicText.PropertyChanged.htm" />
+  <HelpKINode Title="DynamicText.Text property" Url="html/P-MichaelBrandonMorris.DynamicText.DynamicText.Text.htm" />
+  <HelpKINode Title="DynamicText._addButtonIsVisible field" Url="html/F-MichaelBrandonMorris.DynamicText.DynamicText._addButtonIsVisible.htm" />
+  <HelpKINode Title="DynamicText._text field" Url="html/F-MichaelBrandonMorris.DynamicText.DynamicText._text.htm" />
+  <HelpKINode Title="DynamicTextCollection class">
+    <HelpKINode Title="DynamicTextCollection Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+    <HelpKINode Title="DynamicTextCollection Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+    <HelpKINode Title="about DynamicTextCollection class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+    <HelpKINode Title="constructor" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicTextCollection.-ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DynamicTextCollection.CollectionChanged event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicTextCollection.CollectionChanged.htm" />
+  <HelpKINode Title="DynamicTextCollection.DynamicTextCollection constructor" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicTextCollection.-ctor.htm" />
+  <HelpKINode Title="IsNullOrEmpty method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.IsNullOrEmpty.htm" />
+  <HelpKINode Title="IsNullOrWhiteSpace method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.IsNullOrWhiteSpace.htm" />
+  <HelpKINode Title="MichaelBrandonMorris.DynamicText namespace" Url="html/N-MichaelBrandonMorris.DynamicText.htm" />
+  <HelpKINode Title="MichaelBrandonMorris.DynamicText.DynamicDirectoryPath class">
+    <HelpKINode Title="DynamicDirectoryPath Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    <HelpKINode Title="DynamicDirectoryPath Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection class">
+    <HelpKINode Title="DynamicDirectoryPathCollection Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+    <HelpKINode Title="DynamicDirectoryPathCollection Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MichaelBrandonMorris.DynamicText.DynamicText class">
+    <HelpKINode Title="DynamicText Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+    <HelpKINode Title="DynamicText Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MichaelBrandonMorris.DynamicText.DynamicTextCollection class">
+    <HelpKINode Title="DynamicTextCollection Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+    <HelpKINode Title="DynamicTextCollection Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NotifyPropertyChanged method" Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.NotifyPropertyChanged.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicText.PropertyChanged.htm" />
+  <HelpKINode Title="Text property" Url="html/P-MichaelBrandonMorris.DynamicText.DynamicText.Text.htm" />
+  <HelpKINode Title="_addButtonIsVisible field" Url="html/F-MichaelBrandonMorris.DynamicText.DynamicText._addButtonIsVisible.htm" />
+  <HelpKINode Title="_text field" Url="html/F-MichaelBrandonMorris.DynamicText.DynamicText._text.htm" />
+</HelpKI>

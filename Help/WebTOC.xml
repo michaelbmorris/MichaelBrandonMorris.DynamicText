@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="d1b06c54-16f3-4b16-a238-95e208f8e338" Title="MichaelBrandonMorris.DynamicText Namespace" Url="html/N-MichaelBrandonMorris.DynamicText.htm">
+    <HelpTOCNode Id="f26e91d3-695e-4bd9-bb6f-c032b5ec4c86" Title="DynamicDirectoryPath Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm">
+      <HelpTOCNode Title="DynamicDirectoryPath Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+      <HelpTOCNode Id="9502dc09-d872-4705-8a84-d227bef9ebba" Title="DynamicDirectoryPath Methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm">
+        <HelpTOCNode Title="BrowseFolder Method " Url="html/M-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.BrowseFolder.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="493a1fc3-57bf-40d1-bd3a-690fe506d3eb" Title="DynamicDirectoryPath Properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm">
+        <HelpTOCNode Title="BrowseFolderCommand Property " Url="html/P-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.BrowseFolderCommand.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DynamicDirectoryPath Events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPath.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="41460334-9bb6-42f2-a8c6-473f80c6c0fa" Title="DynamicDirectoryPathCollection Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm">
+      <HelpTOCNode Title="DynamicDirectoryPathCollection Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+      <HelpTOCNode Title="DynamicDirectoryPathCollection Constructor " Url="html/M-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.-ctor.htm" />
+      <HelpTOCNode Title="DynamicDirectoryPathCollection Methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+      <HelpTOCNode Title="DynamicDirectoryPathCollection Properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm" />
+      <HelpTOCNode Id="9fd22abb-63cc-4e05-915e-bb1d6dbffaf6" Title="DynamicDirectoryPathCollection Events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.htm">
+        <HelpTOCNode Title="CollectionChanged Event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicDirectoryPathCollection.CollectionChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5c785abe-52e2-42cc-88be-84f7d9f3316c" Title="DynamicText Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicText.htm">
+      <HelpTOCNode Title="DynamicText Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicText.htm" />
+      <HelpTOCNode Id="8b7e3fd2-df72-47e7-8b23-c84b4ae875b2" Title="DynamicText Fields" Url="html/Fields.T-MichaelBrandonMorris.DynamicText.DynamicText.htm">
+        <HelpTOCNode Title="_addButtonIsVisible Field" Url="html/F-MichaelBrandonMorris.DynamicText.DynamicText._addButtonIsVisible.htm" />
+        <HelpTOCNode Title="_text Field" Url="html/F-MichaelBrandonMorris.DynamicText.DynamicText._text.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a3ecc883-d7c5-490c-88db-058e33e45e26" Title="DynamicText Methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicText.htm">
+        <HelpTOCNode Title="IsNullOrEmpty Method " Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.IsNullOrEmpty.htm" />
+        <HelpTOCNode Title="IsNullOrWhiteSpace Method " Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.IsNullOrWhiteSpace.htm" />
+        <HelpTOCNode Title="NotifyPropertyChanged Method " Url="html/M-MichaelBrandonMorris.DynamicText.DynamicText.NotifyPropertyChanged.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f8571254-fed3-4b64-b831-06ff3e5fb1e3" Title="DynamicText Properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicText.htm">
+        <HelpTOCNode Title="AddButtonIsVisible Property " Url="html/P-MichaelBrandonMorris.DynamicText.DynamicText.AddButtonIsVisible.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P-MichaelBrandonMorris.DynamicText.DynamicText.Text.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5810b24f-853b-42b5-9b6b-758e5196452a" Title="DynamicText Events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicText.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicText.PropertyChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f23b4ee0-473c-43ca-9b9d-2093b357932b" Title="DynamicTextCollection Class" Url="html/T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm">
+      <HelpTOCNode Title="DynamicTextCollection Members" Url="html/AllMembers.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+      <HelpTOCNode Title="DynamicTextCollection Constructor " Url="html/M-MichaelBrandonMorris.DynamicText.DynamicTextCollection.-ctor.htm" />
+      <HelpTOCNode Title="DynamicTextCollection Methods" Url="html/Methods.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+      <HelpTOCNode Title="DynamicTextCollection Properties" Url="html/Properties.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm" />
+      <HelpTOCNode Id="aac4a8c1-4955-4255-9a88-59aa4a9d603d" Title="DynamicTextCollection Events" Url="html/Events.T-MichaelBrandonMorris.DynamicText.DynamicTextCollection.htm">
+        <HelpTOCNode Title="CollectionChanged Event" Url="html/E-MichaelBrandonMorris.DynamicText.DynamicTextCollection.CollectionChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

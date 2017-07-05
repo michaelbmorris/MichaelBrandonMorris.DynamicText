@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>michaelbmorris</owners>
+    <licenseUrl>https://github.com/michaelbmorris/MichaelBrandonMorris.DynamicText/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>http://michaelbmorris.com/MichaelBrandonMorris.DynamicText</projectUrl>
+    <description>C# class library for WPF that allows for addition and removal of text boxes.</description>
+  </metadata>
+</package>
